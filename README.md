@@ -5,6 +5,6 @@ I am making this to learn about DSA and be comfortable with them.
 >Feel free to give advice or even use it
 
 
-[x]LinkedList
-[]HashMap
+- [x]LinkedList
+- []HashMap
 
